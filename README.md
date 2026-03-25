@@ -74,7 +74,8 @@ MEASUREMENT OF BENDING LOSSES:
 	Bend the Fiber in a loop. Measure the amplitude of the received signal.
 	Keep reducing the diameter of bend to about 2 cm & take corresponding out voltage readings. (Do not reduce loop diameter less than 1 cm).
 	Plot a graph of the received signal amplitude versus the loop diameter.
-
+## Block diagram:
+![output](a3.png)
  
 
 **Tabulation:**
